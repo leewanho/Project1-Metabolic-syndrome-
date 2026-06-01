@@ -44,6 +44,10 @@
 > - **흡연 위험은 여성(OR=3.3)이 남성(OR=1.5)의 2.2배**
 > - 모든 p<0.001 — 결과의 강건성(Robustness) 입증
 
+### 🎬 Streamlit 앱 시연
+
+![Demo](images/demo.gif)
+
 ### ROC / PR Curve
 
 ![ROC PR](images/roc_pr_best.png)
