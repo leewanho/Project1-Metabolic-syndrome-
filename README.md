@@ -150,4 +150,4 @@ streamlit run "04_Streamlit앱.py"
 
 ## 📄 Credits
 
-( 팀 프로젝트  / 담당 파트 : DA )
+( 팀 프로젝트  / 담당 파트 : DA 데이터 전처리 및 시각화)
